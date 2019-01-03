@@ -60,38 +60,38 @@
 "루나틱 모루를 사용하여\n룬을 얻은 구리 칼에 추가"
 
 10
-"Agriculture I",
-"Food has extraordinary properties. Every time you eat a new meal, it will grant you permanent HP and/or SP bonuses! However, eating when you're already full will only grant you a temporary HP and/or SP regeneration bonus. You will also be able to mix some ingredients together to cook new meals that will also grant you permanent HP/SP bonuses the first time you eat them.\nAgriculture is an activity you might not want to neglect. Obtaining food in this world will be a long and risky activity, but if you use the seeds you gather, you will be able to grow fruits and vegetables, and use them for new recipes!Craft a hoe (O key) which will allow you to remove grass without digging the dirt. When you obtain seeds, sow them on loose soil and wait patiently for your hard work to bloom.",
-"Craft a hoe.",
-"Sow the gathered seeds on loose soil."
+"농경 I",
+"음식들에는 특별한 효과들이 있습니다. 당신이 처음 음식을 경험할 때 영구적인 생명력과 스태미나의 증가를 경험할 수 있을 것이고 추가적으로 몇 가지의 효과를 줄 것입니다! 이 추가적인 효과들은 처음이 아니어도 생명력이나 스태미나의 재생 효과, 회복 효과를 받을 수 있습니다. 또한 몇 가지 재료를 함께 섞어 생명력과 스태미나 보너스를 줄 수 있는 새로운 음식을 만들 수 있습니다. 농업은 여러분에게 필수적인 활동입니다. 이 어두운 세상에서 음식을 얻는 것은 길고 위험한 활동일 수 있습니다. 하지만 만약 여러분이 수집한 씨앗을 사용한다면, 여러분은 과일과 야채를 재배하고 새로운 조리법에 사용할 수 있을 것입니다! 흙을 파지 않고 풀을 제거할 수 있는 괭이를(O key)를 만들어 봅시다. 여러분이 씨를 얻었다면 개간된 땅에 씨를 뿌리고 열매를 맺고 꽂이 피기를 끈기 있게 기다려야 합니다.",
+"괭이 만들기",
+"모아둔 씨앗을 잘 고른 땅에 뿌리기"
 
 11
-"Farming",
-"You probably have seen chickens while exploring the world. They can be tamed to provide meat and eggs! To tame them, you must build a manger (using an advanced working table), and place wheat inside. Nearby chickens will be tamed and remain near the manger. Alternatively, you could just chase a chicken and try to make it run to the manger!",
-"Build a manger and place it.",
-"Put wheat or corn inside it.",
-"Tame a chicken."
+"축산",
+"당신은 행성을 탐험하면서 닭을 본 적이 있을 것입니다. 그것들을 길들인다면 고기와 달걀을 제공받을수 있습니다. 그들을 길러봅시다. 그들을 길들이기 위해서는, 당신은 (고급 제작대를 사용하여) 닭장을 만들고 밀과 옥수수를 안에 두기만 하면 됩니다. 근처에 있는 닭들은 자동으로 길들여져 닭장 근처에 머물 것입니다. 주변에 닭들이 없다면, 여러분은 닭을 뒤쫓아 닭장을 채울 수도 있습니다!",
+"닭장을 만들고 그것을 배치하기",
+"밀이나 옥수수를 안에 넣기",
+"닭 길들이기"
 
 12
-"Alchemy",
-"The flowers of this world are not just mere decorations. Some have a considerable power which can be unlocked through the art of Alchemy. A single empty vial and a few flowers will be enough to create multiple potions with various effects!Build an alchemy table using the advanced crafting table. You will need 5 steel bars to do so. An empty vial requires glass. Create glass with sand and a furnace.",
-"Build an alchemy table.",
-"Craft a small healing potion."
+"연금술",
+"이곳의 꽃은 겉보기에는 장식같지만 사실 그렇지 않습니다. 때로 어떤 것들은 엄청난 힘을 가지고 있고 연금술로 그 꽃을 피워낼 수 있죠. 빈 병과 조금의 꽃만 있어도 다양한 효과를 가진 물약들을 만들 수 있죠! 고급 제작대에서 연금술 탁자를 만들수 있습니다. 이것을 만들려면 5개의 강철 주괴가 필요할 겁니다. 그리고 비어있는 병 몇개가 필요하죠. 그건 용광로에서 유리를 만들어낸 후 고급 제작대에서 만들 수 있습니다.",
+"연금술 탁자 만들기",
+"소형 회복 물약 만들기"
 
 13
-"Capture",
-"Soul gems, which you will recognize easily by to their purple color, are rare gems that allow you to capture monsters and make them your pets. Summoning them will cost you energy. More powerful monsteres require more energy to use, so be careful! Tamed monsters will be able to EVOLVE! Just treat your monster right and have it gain experience during fights! You can recall a tamed monster whenever you want the same way you summoned it, by using the summoning stone. If a pets HP falls to 0, it returns to the gem and can't be summoned for a while.",
-"Gather 10 amethysts.",
-"Craft a Soul gem using the amethysts.",
-"Capture a monster.",
-"Summon the captured monster."
+"포획",
+"보통 자줏빛으로 빛나는 영혼석은 몬스터를 잡아 애완동물로 만들 수 있는 드문 보석입니다. 그것들을 소환하는 것은 스테미나를 소모하게 할 것입니다.  더 강력한 몬스터는 소환 시 더 많은 에너지를 필요로 하므로 조심하십시오! 길들여진 몬스터들은 모든 것을 할 수 있을 것입니다! 그저 당신의 몬스터를 적절하게 대우하고 전투 중에 경험을 얻도록 하세요! 소환석을 사용하여 소환한 것과 동일한 방법으로 원하는 경우 언제든지 길들여진 몬스터를 회수할 수 있습니다. 애완동물의 HP가 0이 되면, 보석에 다시 들어가 회복이 될 때까지 당분간 소환할 수 없습니다.",
+"자수정 10개 모으기",
+"자수정으로 고급 제작대\n에서 영혼석 만들기",
+"몬스터 포획하기",
+"포획한 몬스터 소환해보기"
 
 14
-"Transformation",
-"The transformation table is a powerful magic tool that will allow you to morph into a multitude of monsters and even use their abilities.",
-"Gather 10 amethysts and 5 steel bars.",
-"Use the advanced crafting table to build\na transformation table.",
-"Transform into a slime."
+"변환",
+"변환기는 수많은 몬스터로 변신할 수 있고 심지어 그들의 능력을 사용할 수 있는 강력한 마술 도구입니다.",
+"자수정 10개와 철 주괴 5개 수집",
+"고급 제작대를 사용하여 변환기를 만들기",
+"슬라임으로 변신해 보기"
 
 15
 "클로리디아인 구출!",
