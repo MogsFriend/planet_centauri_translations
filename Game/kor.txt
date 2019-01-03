@@ -3,7 +3,8 @@
 # Please don't remove comments and sections
 # which begin with the character '#'
 # Translate only elements between " and "
- 
+
+# Translation Edit and Mistranslate fix by 솔쟝조아#1518
  
 ####################
 ### Title Screen ###
@@ -395,8 +396,8 @@
 
 # Items effects
 
-"대시와 실행 비용 0 SP"
-"대쉬 스피드 보너스"
+"대시와 달리기에 스태미나 소모 없음"
+"대시 스피드 보너스"
 "대시 범위 보너스"
 "밀려남 없음"
 "HP가 30 % 미만인 경우 데미지 + 25 %"
