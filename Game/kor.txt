@@ -28,9 +28,9 @@
 
 # Shared buttons for all menus
 
-"승인"
-"취소"
 "확인"
+"취소"
+"동의"
 
 
 # Global menu
@@ -93,9 +93,9 @@
 "일반"
 "건축"
 "모험가"
-"도전자"
-"위험천만"
-"서든데스"
+"희귀종 천국"
+"무모한 도전"
+"서든 데스"
 
 
 # Modes descriptions
