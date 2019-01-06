@@ -424,3 +424,171 @@
 # 영혼석 사용
 
 "필요 SP :"
+
+
+
+#############
+### Magic ###
+#############
+
+"Enchantment Book [Beta]"
+
+# tabs
+
+"Presets"
+"Creation"
+"Casts"
+"Spells"
+"Preview"
+
+# presets tab
+
+"Select preset"
+"Load spell"
+"Save spell"
+"Spell"
+"Parchment"
+"Close"
+
+# help
+
+"Help"
+"Load spell from "
+"Save spell in "
+"Copy spell as text"
+"Paste spell from text"
+
+# creation
+
+"Define Spell"
+"Name"
+"Description"
+"Hold"
+"Fire rate"
+"Gems"
+"Create Spell"
+
+"Missing Gems"
+"More points required"
+"Invalid Spell"
+"Error:"
+"- The spell contains a loop"
+"- There is an invalid index"
+
+"Fire"
+"Ice"
+"Stone"
+"Electric"
+"Light"
+"Shadow"
+"Poison"
+"Arcana"
+
+"Ruby"
+"Sapphire"
+"Agate"
+"Topaz"
+"Diamond"
+"Onyx"
+"Emerald"
+"Amethyst"
+
+"Chipped"
+"Flawed"
+"Normal"
+"Polished"
+"Flawless"
+"Legendary"
+"Divine"
+
+"SP cost: "
+"infinity (loop)"
+
+# Casts tab
+
+"Time span"
+"Accuracy"
+"Angle"
+
+"Next cast"
+"Relative angle"
+"Timer"
+
+"Add event..."
+"Add cast..."
+
+"On death"
+"On air death"
+"On solid contact"
+"On enemy contact"
+"Step"
+
+# Spells tab
+
+"Fireball"
+"Sun"
+"Meteor"
+"Ice dart"
+"Ice spike"
+"Electric dart"
+"Electric ball"
+"Lightning"
+"Rock ball"
+"Stone wall"
+"Light laser"
+"Healing"
+"Necro ball"
+"[Blueprint Required]"
+
+"Damages"
+"Range"
+"Duration"
+"Size"
+"Pierce"
+
+"Directional"
+"Directional Ext"
+"Gravity"
+"Bounce"
+"Follow Wall"
+
+"Speed"
+"Speed Incr."  # speed increase
+"Speed Wiggle"
+"Dir. Incr."   # direction increase
+"Dir. Wiggle"
+"Min hspeed"   # hspeed : horizontal speed
+"Min vspeed"   # vspeed : vertical speed
+"Max speed"
+
+# Burst
+
+"Burst"
+"Add burst..."
+
+"Point"
+"Arc"
+"Circle"
+"Square"
+"Top Cursor"
+"Top"
+"Ground"
+
+"Ground Left"
+"Ground Right"
+"Ground Dir"
+"Ground Bottom Left"
+"Ground Bottom Right"
+"Ground Bottom Dir"
+"Point"
+"Cursor Raycast"
+"Relative Raycast"
+"Cursor"
+
+"Count"
+"Separation"
+"Radius"
+"Split"
+"Erase"
+
+"Level"

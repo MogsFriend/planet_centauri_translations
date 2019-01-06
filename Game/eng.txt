@@ -1,0 +1,601 @@
+
+#### All Game Texts ####
+
+# Please don't remove comments and sections
+# which begin with the character '#'
+# Translate only elements between " and "
+
+
+####################
+### Title Screen ###
+####################
+
+# Langs menu
+
+"ENGLISH"
+"GERMAN"
+"FRENCH"
+"ITALIAN"
+"SPANISH"
+"RUSSIAN"
+"SWEDISH"
+"PORTUGUESE"
+"DUTCH"
+"POLISH"
+"CHINESE"
+"JAPANESE"
+"KOREAN"
+
+
+# Shared buttons for all menus
+
+"Ok"
+"Cancel"
+"Confirm"
+
+
+# Global menu
+
+"Single Player"
+"Multiplayer [Beta]"
+"Language"
+"Quit"
+
+
+# Character selection menu
+
+"Select Character"
+"New Character"
+"Erase Character"
+
+
+# World selection menu
+
+"Select World"
+"New World"
+"Erase World"
+
+
+## Character creation and customization
+
+# character select name
+"Enter a name"
+
+# customizable elements
+"Hair "
+"Face "
+"Eyes "
+"Mouth "
+"Extras "
+"Misc "
+
+# character menu
+"Random"
+
+
+## Game mode
+
+# Difficulty
+
+"Easy"
+"Normal"
+"Hard"
+"Nightmare"
+
+
+# Difficulty descriptions
+
+"Monsters do 2x less damage and have 30 percent less life."
+""
+"Monsters do 1.5x more damage and have 30 percent more life."
+"Monsters do 2x more damage and have 2x more life."
+
+
+# Modes
+
+"Standard"
+"Building"
+"Brave"
+"Rares only"
+"Reckless"
+"Sudden death"
+
+
+# Modes descriptions
+
+"Standard rules - Multiple worlds allowed"
+"No monsters - Infinite blocks and decorations"
+"Level 3 monsters minimum"
+"Only rares monsters"
+"Only level 7 monsters"
+"You have 1 HP, monsters also"
+
+
+# Hardcore mode
+
+"Hardcore enabled"
+"Hardcore disabled"
+
+
+# Hardcore description
+
+"Death is definitive!"
+
+
+## World creation
+
+"Enter a name"
+
+
+## Erase character or world
+
+"Enter 'delete' to delete "
+
+
+## Multiplayer
+
+# Multiplayer first menu
+
+"Join"
+"Host Server"
+
+
+# Join
+
+"Server IP"
+"Server Port"
+
+
+# Host
+
+"Select Port"
+
+
+# Connection error
+
+"Connection failed"
+
+
+
+
+
+
+
+
+###############
+### Options ###
+###############
+
+
+## Shared buttons
+
+"Save"
+
+
+## Menu ##
+
+"Graphics"
+"Audio"
+"Controls"
+"Game"
+"Save" # save the game
+"Save and quit"
+"Titlescreen" # return to the titlescreen
+
+
+## Graphics ##
+
+"Vsync"          # vertical synchronization
+"Fullscreen"
+"Fullscreen Zoom"
+"Window Size"
+"Windowed Zoom"
+"Shadows interpolations"
+"Shadows precision"
+"Ambient shadows"
+"Tiles joints"   # show joints arounds the tile
+"Background"
+"Fix shadows bug"
+"Custom"
+
+
+## Audio
+
+"Music Volume"
+"Ambiant Volume"
+"Sounds Volume"
+
+
+## Game
+
+"Deactivate auto switch"
+"Invert actions"
+"Auto save"
+
+
+## Keybinding
+
+# Window caption
+
+"Keybinding"
+
+
+# Mouse
+
+"Mouse"
+"Mouse Left"
+"Mouse Right"
+"Mouse Middle"
+
+
+# Keys
+
+"Key"
+"Left"
+"Right"
+"Up"
+"Down"
+"Enter"
+"Escape"
+"Space"
+"Shift"
+"Control"
+"Alt"
+"Backspace"
+"Tab"
+"Home"
+"End"
+"Delete"
+"Insert"
+"Page Up"
+"Page Down"
+"Pause"
+"Print Screen"
+"Numpad " # numpad 0-9
+"Decimal"
+
+"Select Key"
+
+"Action Left"
+"Action Right"
+"Switch Item"
+"Switch Item Alt" # alternative key 
+"Skill " # skill 1-2-3
+"Interact"
+"Use Potion"
+"Use Potion Alt" # alternative key
+"Movements Up"
+"Movements Down"
+"Movements Left"
+"Movements Right"
+"Jump"
+"Run"
+"Pickaxe Mode"
+"Switch Focus"  # switch focus
+"Upgrades Menu"
+"Inventory Menu"
+"Craft Menu"
+"Skills Menu"
+"Select Item " # select item 0-9
+"Move Camera Up"
+"Move Camera Center"
+"Move Camera Down"
+"Select Front Block"
+"Select Back Block"
+"Throw Item"
+
+
+# Buttons
+
+"Reset " # reset qwerty/azerty
+
+
+
+
+
+
+##############
+### Skills ###
+##############
+
+# Skills gui tabs
+
+"Skills"
+"Ground"
+"Air"
+"Unlock"
+
+
+# Skills keys
+
+"Attack + Up + Backward"
+"Attack + Up"
+"Attack + Up + Forward"
+"Attack + Backward"
+"Attack + Idle"
+"Attack + Forward"
+"Attack + Down + Backward"
+"Attack + Down"
+"Attack + Down + Forward"
+"Backward + Backward"
+"Forward + Forward"
+"Up + Up"
+"Down + Down"
+
+
+# Skills sections
+
+"Bonus"
+"Dash"
+"Sword Slice"
+"Sword Thrust"
+"Sword Double Slice"
+"Sword Slice Project"
+"Sword Dive"
+"Sword Tornado"
+"Sword Spin"
+
+
+# Skills tooltips
+
+"Locked" 
+" souls" # souls cost (ex: 150 souls)
+" SP"    # stamina cost (ex: 12 SP)
+
+
+# Skills descriptions
+
+"Hold Shift to run"
+
+
+# Skills names
+
+"Run"
+"Double Jump"
+"Dash"
+"Air Dash"
+"Slice"
+"Project"
+"Project lv2"
+"Double Slice"
+"Thrust"
+"Thrust lv2"
+"Gamma Thrust"
+"Dive"
+"Spin"
+"Spin lv2"
+"Spin lv3"
+"Tornado"
+"Tornado lv2"
+"Tornado lv3"
+
+
+##################
+### Quests GUI ###
+##################
+
+# Tabs
+
+"Quests"
+"In Progress"
+"Completed"
+
+"Rewards"
+"Fame"
+"Accept" ###
+
+
+"QUEST COMPLETE!"
+"Ok" ###
+
+
+
+
+
+############
+### Misc ###
+############
+
+# Items effects
+
+"Dash and run cost 0 SP"
+"Dash speed bonus"
+"Dash range bonus"
+"No recoil"
+"Damages +25% if HP under 30%"
+"Damages +50% if HP under 20%"
+"Damages +100% if HP under 10%"
+"Resistance +10% if HP under 20%"
+"Resistance +20% if HP under 20%"
+"Resistance +30% if HP under 20%"
+"Reveal ores in shadows"
+"Reveal chests in shadows"
+
+## Monsters
+
+# Monsters rarity
+
+"Unknown"
+"Rare"
+"Divine"
+"Legendary"
+
+"HP base stat bonus: "
+"Atk base stat bonus: "
+
+# Capture gem
+
+"SP required: "
+
+
+
+#############
+### Magic ###
+#############
+
+"Enchantment Book [Beta]"
+
+# tabs
+
+"Presets"
+"Creation"
+"Casts"
+"Spells"
+"Preview"
+
+# presets tab
+
+"Select preset"
+"Load spell"
+"Save spell"
+"Spell"
+"Parchment"
+"Close"
+
+# help
+
+"Help"
+"Load spell from "
+"Save spell in "
+"Copy spell as text"
+"Paste spell from text"
+
+# creation
+
+"Define Spell"
+"Name"
+"Description"
+"Hold"
+"Fire rate"
+"Gems"
+"Create Spell"
+
+"Missing Gems"
+"More points required"
+"Invalid Spell"
+"Error:"
+"- The spell contains a loop"
+"- There is an invalid index"
+
+"Fire"
+"Ice"
+"Stone"
+"Electric"
+"Light"
+"Shadow"
+"Poison"
+"Arcana"
+
+"Ruby"
+"Sapphire"
+"Agate"
+"Topaz"
+"Diamond"
+"Onyx"
+"Emerald"
+"Amethyst"
+
+"Chipped"
+"Flawed"
+"Normal"
+"Polished"
+"Flawless"
+"Legendary"
+"Divine"
+
+"SP cost: "
+"infinity (loop)"
+
+# Casts tab
+
+"Time span"
+"Accuracy"
+"Angle"
+
+"Next cast"
+"Relative angle"
+"Timer"
+
+"Add event..."
+"Add cast..."
+
+"On death"
+"On air death"
+"On solid contact"
+"On enemy contact"
+"Step"
+
+# Spells tab
+
+"Fireball"
+"Sun"
+"Meteor"
+"Ice dart"
+"Ice spike"
+"Electric dart"
+"Electric ball"
+"Lightning"
+"Rock ball"
+"Stone wall"
+"Light laser"
+"Healing"
+"Necro ball"
+"[Blueprint Required]"
+
+"Damages"
+"Range"
+"Duration"
+"Size"
+"Pierce"
+
+"Directional"
+"Directional Ext"
+"Gravity"
+"Bounce"
+"Follow Wall"
+
+"Speed"
+"Speed Incr."  # speed increase
+"Speed Wiggle"
+"Dir. Incr."   # direction increase
+"Dir. Wiggle"
+"Min hspeed"   # hspeed : horizontal speed
+"Min vspeed"   # vspeed : vertical speed
+"Max speed"
+
+# Burst
+
+"Burst"
+"Add burst..."
+
+"Point"
+"Arc"
+"Circle"
+"Square"
+"Top Cursor"
+"Top"
+"Ground"
+
+"Ground Left"
+"Ground Right"
+"Ground Dir"
+"Ground Bottom Left"
+"Ground Bottom Right"
+"Ground Bottom Dir"
+"Point"
+"Cursor Raycast"
+"Relative Raycast"
+"Cursor"
+
+"Count"
+"Separation"
+"Radius"
+"Split"
+"Erase"
+
+"Level"
+
+
+
+
+
