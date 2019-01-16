@@ -1,0 +1,101 @@
+﻿
+0
+"Resources 1 - Chest",
+"Using tools will be absolutely necessary to gather resources. You will need to learn how to craft items that will help you survive.\nPick up the pickaxe and the axe in the chest in front of you.",
+"Pick up the pickaxe and the axe\nlocated in the chest."
+
+1
+"Resources 2 - Pickaxe",
+"Now, equip the pickaxe and look for 4 coal blocks by digging into the ground. You can easily find some on the surface of this planet.",
+"Gather 4 Coal blocks."
+
+2
+"Resources 3 - Axe",
+"Now, equip the axe and gather 8 chunks of wood.",
+"Gather 8 Wood."
+
+3
+"Crafts 1",
+"Use the gathered wood and coal to create a sword and a torch. These will allow you to see more clearly and defend yourself.\nTo create the sword and the torch, use the O key to open the crafting window. If you have the required materials for crafting, the recipes will appear highlighted on the list. You will then need to click on the desired item on the list to craft it.",
+"Craft a wooden sword and equip it in the main slot.",
+"Craft a torch."
+
+4
+"Crafts 2",
+"Now, build an advanced crafting table. It will allow you to craft advanced new items like furniture and necessary tools to forge weapons and armors.",
+"Build an advanced crafting table."
+
+5
+"Building 1",
+"Congratulations! You will now need a shelter to protect yourself from hostile creatures, and to be able to use the crafting table without being bothered...You can choose to build your shelter with any material: dirt, wood, stone and many other things.\nTo build a shelter, these prerequisites are required:\n4 Walls forming a closed area\nA background wall covering the entire shelter surface\nA door\nA source of light (torch or other)",
+"Build a shelter.",
+"Place the crafting table on the ground.",
+"Build a door and place it."
+
+6
+"Crafts 3",
+"You can now take shelter safely. Use this opportunity to craft your first armor piece! Use the advanced crafting table to build a furnace that will allow you to melt ore into bars.Place the furnace on the ground and use it to transform the 12 tin ores into 3 tin bars.Use the furnace again to build an anvil with the 3 tin bars.You can finally craft your first armor piece! Put the anvil on the ground and use it to craft an armor piece. You can choose between the greaves, the chest and the helmet. There is an infinite amount of ore in this world. It will be essential to craft better quality weapons and armors that will allow you to push the limits of exploration even further! Feel free to mine around to find new ore!",
+"Use the advanced crafting table to build a furnace.",
+"Create 3 Tin bars.",
+"Build a tin anvil.",
+"Craft your first tin armor piece."
+
+7
+"Magic",
+"Magic is the ability to manipulate gems and cast powerful spells! Every gem type corresponds to a particular magic school. Their size represents how powerful the spell you create will be. Merging gems of the same quality together will create an even higher quality gem, that will be able to contain a more powerful spell. Use the advanced working table to craft an enchantment book and a parchment. Use the enchantment book to enchant a gem with the 'Fireball' spell. To do so, put a parchment in the left slot, a ruby in the right slot, and select 'Enchant'.",
+"Gather 8 wood, 6 wisp dust, 1 leather and 1 ruby.",
+"Craft an enchantment book and a parchment\nwith some paper.",
+"Enchant a gem with the 'Fireball' spell."
+
+8
+"Skills",
+"You must have noticed that when you kill a monster, you receive souls. These can be used in many ways. The most important of them is to allow you to develop skills you could never learn otherwise. You can unlock skills by opening the skill window!",
+"Obtain 50 souls",
+"Unlock the Run skill."
+
+9
+"Runes",
+"Runes are powerful magic items you can embed in your weapon and armor if they have at least one empty slot. You will also be able to merge multiple identical runes to get an even more powerful one. You will find runes in chests or defeating rare monsters.",
+"Build a runic anvil.",
+"Use the runic anvil to embed the rune\ninto your copper swords slot."
+
+10
+"Agriculture 1",
+"Food has extraordinary properties. Every time you eat a new meal, it will grant you permanent HP and/or SP bonuses! However, eating when you're already full will only grant you a temporary HP and/or SP regeneration bonus. You will also be able to mix some ingredients together to cook new meals that will also grant you permanent HP/SP bonuses the first time you eat them.\nAgriculture is an activity you might not want to neglect. Obtaining food in this world will be a long and risky activity, but if you use the seeds you gather, you will be able to grow fruits and vegetables, and use them for new recipes!Craft a hoe (O key) which will allow you to remove grass without digging the dirt. When you obtain seeds, sow them on loose soil and wait patiently for your hard work to bloom.",
+"Craft a hoe.",
+"Sow the gathered seeds on loose soil."
+
+11
+"Farming",
+"You probably have seen chickens while exploring the world. They can be tamed to provide meat and eggs! To tame them, you must build a manger (using an advanced working table), and place wheat inside. Nearby chickens will be tamed and remain near the manger. Alternatively, you could just chase a chicken and try to make it run to the manger!",
+"Build a manger and place it.",
+"Put wheat or corn inside it.",
+"Tame a chicken."
+
+12
+"Alchemy",
+"The flowers of this world are not just mere decorations. Some have a considerable power which can be unlocked through the art of Alchemy. A single empty vial and a few flowers will be enough to create multiple potions with various effects!Build an alchemy table using the advanced crafting table. You will need 5 steel bars to do so. An empty vial requires glass. Create glass with sand and a furnace.",
+"Build an alchemy table.",
+"Craft a small healing potion."
+
+13
+"Capture",
+"Soul gems, which you will recognize easily by to their purple color, are rare gems that allow you to capture monsters and make them your pets. Summoning them will cost you energy. More powerful monsteres require more energy to use, so be careful! Tamed monsters will be able to EVOLVE! Just treat your monster right and have it gain experience during fights! You can recall a tamed monster whenever you want the same way you summoned it, by using the summoning stone. If a pets HP falls to 0, it returns to the gem and can't be summoned for a while.",
+"Gather 10 amethysts.",
+"Craft a Soul gem using the amethysts.",
+"Capture a monster.",
+"Summon the captured monster."
+
+14
+"Transformation",
+"The transformation table is a powerful magic tool that will allow you to morph into a multitude of monsters and even use their abilities.",
+"Gather 10 amethysts and 5 steel bars.",
+"Use the advanced crafting table to build\na transformation table.",
+"Transform into a slime."
+
+15
+"Free the Chloridians!",
+"This world, a long time ago, was ruled by the chloridian race, a powerful and thriving species, but also non-violent. They welcomed with open arms visitors from space. These aliens claimed to have lost their planet in a tragic accident and needed a new home. What the Chloridians didnt realize before it was too late was that the visitors did not come alone. One night, the apocalypse came upon them, brought by an abominable creature. The whole chloridian civilization had collapsed before dawn. From this gruesome day on, the Chloridians have become slaves and lab rats. Now, their species does not have a lot in common with their ancestors, due to the terrible experiments that are conducted on them. If you want to leave this planet someday, you will need their help. Free them and recreate the civilization that was once ours. You will find captive Chloridians in the depths of the world, scattered in many places. Once freed, each Chloridian will appear next to me. You will then have to come back here and inform him on the skills you want him to develop. You will then have to manage the village. Make sure to provide them shelter and protection against the nearby dangers. If by misfortune one of them dies, you dont only lose a villager but also all of his knowledge.",
+"Find one of the prisons where Chloridians\nare held captive, and defeat the guards.",
+"Free a Chloridian from its prison.",
+"Go back to the surface and give\nthe freed Chloridian a job."
