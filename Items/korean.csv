@@ -120,24 +120,24 @@
 "pc_middleages_besidetable"," 중세 시대 보조 작업대"," 나무로 만들어진 보조 작업대"
 "pc_table_transformation","변환 작업대","몬스터를 무한대로 변환할 수 있습니다."
 "pc_meat_rack","고기 건조대","고기를 육포로 만들 수 있는 건조대."
-,,
+
 "pc_chicken_manger","닭장","닭장 속에는 암탉이 있지!"
 "pc_cow_manger","외양간","외양간 속에는 젖소가 있지!"
-,,
+
 "pc_block_maker","블록 생성기","원자재를 블록으로 변형시킬 수 있는 매우 흥미로운 기계입니다."
 "pc_runic_anvil","룬 모루","장비에 룬을 장착할 수 있는 룬 모루"
 "pc_campfire","모닥불","단순히 고기를 굽고 싶으시다고요? 얼음을 녹이고 싶으신가요? 모닥불을 이용하세요!"
-,,
+
 "pc_alchemy_bookcase","연금술사 책장","연금술 책들로 가득 찬 책장."
 "pc_alchemy_door","연금술사 방문","모든 사람들에게 경고한다. 연금술의 문은 아무나 열수 있는것이 아니다."
 "pc_alchemy_table","연금술사 작업대","포션을 만들 수 있는 연금술 작업대 입니다."
 "pc_alchemy_table2","연금술사 작업대","포션을 만들 수 있는 연금술 작업대 입니다."
 "pc_alchemy_chair","연금술사 의자","연금술사를 위해 만들어진 의자"
 "pc_alchemy_skull","연금술사 해골","촛대 역할을 하는 두개골."
-,,
+
 "pc_donjon_platform","던전 발판","지하감옥의 질척한 피가 굳어서 만들어진 발판"
 "pc_soul_crystal","영혼 크리스탈","수년간 모아진 많은 영혼들이 만들어낸 결정체, 불가사의한 결정에는 몬스터을 향한 증오가 담겨있다."
-,,
+
 "pc_flesh_workbench","살덩이 작업대","살로 만든 작업대. 정상적인 사람들을 위한 작업대가 아니야!"
 "pc_flesh_banner","살덩이 배너","살덩이로 만들어진 배너, 여기엔 심상치 않은것이 있어 돌아가!"
 "pc_flesh_chair","살덩이 의자","살덩이로 만들어진 의자, 심장이 뛰고 있는거 보여?"
@@ -149,7 +149,7 @@
 "pc_flesh_table","살덩이 책상","살덩이로 만들어진 책상, 한가운데 눈알이 나를 보고 있다."
 "pc_flesh_wardrobe","살덩이 옷장","옷장은 살덩이로 만들어진것 같다. 안에는 뼈가 있다."
 "pc_flesh_wardrobe2","살덩이 옷장","옷장은 살덩이로 만들어졌다. 문을 열어보기 무섭다."
-,,
+
 "pc_gold_platform","황금 발판","부의 상징! 황금 발판!"
 "pc_gold_workbench","황금 작업대","황금을 가공하는 황금 작업대!"
 "pc_gold_armchair;Golden Armchair","황금 팔걸이 의자","황금으로 만들어진 팔걸이 의자"
@@ -166,7 +166,7 @@
 "pc_brick_gold1","황금 벽돌","황금 바로 쌓은 벽돌이다."
 "pc_brick_gold2","황금 벽돌","황금 원석을 가공하여 만든 벽돌이다."
 "pc_brick_gold3","황금 블록","황금 덩어리로 만든 벽돌이다."
-,,
+
 "pc_ice_workbench","얼음 작업대","설원의 녹지않는 얼음으로 만들어낸 차가운 얼음작업대."
 "pc_ice_table","얼음 책상","녹지 않는 얼음으로 만들어진 차가운 얼음 책상"
 "pc_ice_table2","얼음 책상","얼음 책상은 투명하지만 반대편이 비칠 정도로 투명했다."
@@ -180,7 +180,7 @@
 "pc_ice_floor_lamp","얼음 램프","얼음안에 영혼석같이 아름다운 불꽃이 타오르고 있다."
 "pc_ice_door","얼음 문","얼음 여왕의 방문, 얼음으로 만들어진 문이다. "
 "pc_ice_platform","얼음 발판","얼음으로 만든 발판이다. 조심해라 미끄럽다."
-,,
+
 "pc_slime_workbench","슬라임 작업대","슬라임이었던 것들로 만든 작업대. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다..."
 "pc_slime_table","슬라임 책상","슬라임이었던 것들로 만든 책상. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다…"
 "pc_slime_table2","슬라임 책상","슬라임이었던 것들로 만든 책상. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다…"
@@ -193,7 +193,7 @@
 "pc_slime_ceil_lamp2","슬라임 샹들리에","슬라임이었던 것들로 만든 샹들리에. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다…"
 "pc_slime_door","슬라임 방문","슬라임이었던 것들로 만든 문. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다…"
 "pc_slime_platform","슬라임 발판","슬라임이었던 것들로 만든 발판. 나는 그들이 어떻게 서로를 붙잡고 있는지 궁금하다…"
-,,
+
 "pc_torture_workbench","고문 작업대","고문을 위한 작업대이다."
 "pc_torture_table","고문 책상","책상위에 유리가 박혀있다. 모든면에서 완벽하다."
 "pc_torture_table2","고문 책상","책상위에 못이 박혀있다. 모든면에서 완벽하다."
@@ -220,7 +220,7 @@
 "pc_torture_decoration4","고문 장식","아주 고상한 장식들"
 "pc_torture_decoration5","고문 장식","아주 고상한 장식들"
 "pc_torture_platform","고문 발판","고문관을 배려한 발판이다."
-,,
+
 "pc_middleages_banner","중세 배너","중세 상인 가문의 배너."
 "pc_middleages_banner2","중세 배너","중세 연금술사 가문의 배너."
 "pc_middleages_banner3","중세 배너","중세 검투사 가문의 배너."
@@ -241,7 +241,7 @@
 "pc_middleages_lamp3","중세 램프","중세 시대처럼 만들어진 램프."
 "pc_middleages_lampost","중세 가로등","중세 시대처럼 만들어진 가로등."
 "pc_middleages_lamp","중세 램프","중세 시대처럼 만들어진 램프."
-,,
+
 "pc_rococo_platform","로코코 발판","산업혁명기 초월적인 아름다움을 모토로 하던 로코코 스타일의 발판"
 "pc_rococo_woodworking","로코코 목공예장","순수한 로코코 스타일의 목공예장."
 "pc_rococo_table","로코코 책상","순수한 로코코 스타일의 책상."
@@ -258,7 +258,7 @@
 "pc_rococo_chandelier","로코코 샹들리에","순수한 로코코 스타일의 샹들리에."
 "pc_rococo_couch","로코코 긴소파","순수한 로코코 스타일의 긴소파."
 "pc_rococo_lamp","로코코 램프","순수한 로코코 스타일의 램프."
-,,
+
 "pc_roman_banner_little1","고대 로마 작은 배너","순수한 로마 스타일로 장식된 작은 검투사 현수막."
 "pc_roman_banner_little2","고대 로마 작은 배너","순수한 로마 스타일로 장식된 작은 기사 현수막."
 "pc_roman_banner1","고대 로마 배너","순수한 로마 스타일로 장식된 검투사 현수막."
@@ -272,7 +272,7 @@
 "pc_roman_wardrobe","고대 로마 옷장","전형적인 로마식 옷장"
 "pc_roman_chandelier","고대 로마 샹들리에","이 샹들리에는 로마의 고대유적으로 보인다."
 "pc_roman_chandelier2","고대 로마 샹들리에","이 샹들리에는 로마의 고대유적을 복원하여 만들어 졌다."
-,,
+
 "pc_royal_banner1","현자왕 배너","지고한 현자왕의 상징적인 배너."
 "pc_royal_banner2","기사왕 배너","고강한 기사왕의 상징적인 배너."
 "pc_royal_banner3","태양왕 배너","신성한 태양왕의 상징적인 배너."
@@ -284,7 +284,7 @@
 "pc_royal_lamp","왕실 램프","왕실을 비추는 화려한 등"
 "pc_royal_table","왕실 책상","왕이 공부하고 업무를 보는 책상"
 "pc_royal_wardrobe","왕실 옷장","궁녀가 관리하지 않는 왕의 특별한 옷장"
-,,
+
 "pc_ancien_platform","고대의 발판","사막에 살고 있는 고대 문명에 의해 만들어진 플랫폼."
 "pc_ancien_sand_commode","고대의 서랍장","사막에 살고 있는 고대 문명에 의해 만들어진 서랍장."
 "pc_ancien_sand_workbench","고대의 작업대","사막에 살고 있는 고대 문명에 의해 만들어진 작업대."
@@ -299,7 +299,7 @@
 "pc_ancien_sand_bed2","고대의 침대","사막에 살고 있는 고대 문명에 의해 만들어진 침대."
 "pc_ancien_sand_chair","고대의 의자","사막에 살고 있는 고대 문명에 의해 만들어진 의자."
 "pc_ancien_sand_door","고대의 문","사막에 살고 있는 고대 문명에 의해 만들어진 문."
-,,
+
 "pc_savage_door","야만인 문","대나무와 가죽으로 만든 문."
 "pc_savage_door2","야만인 문","대나무로 만든 문."
 "pc_savage_bed","야만인 침대","대나무와 가죽으로 만든 침대."
@@ -309,7 +309,7 @@
 "pc_savage_brazier","야만인 화로","대나무와 가죽으로 만든 화로."
 "pc_savage_table","야만인 책상","대나무와 가죽으로 만든 책상."
 "pc_savage_wardrobe","야만인 옷장","대나무와 가죽으로 만든 옷장."
-,,
+
 "pc_stoneage_platform","석기시대 발판","선사시대 유랑민의 간이 발판"
 "pc_stoneage_table","석기시대 책상","선사시대의 책상"
 "pc_stoneage_workbench","석기시대 작업대","선사시대의 재료를 가공하여 가구를 만들 수 있는 작업대"
@@ -330,7 +330,7 @@
 "pc_torch_donjon","던전 횃불","어떤 방에서도 불안감을 주는 횃불."
 "pc_torch_green","초록 횃불","이 나무 횃불은 가장 어두운 동굴에서 당신의 시야를 확보 해 줄 것이다."
 "pc_torch_aqua","파랑 횃불","이 나무 횃불은 가장 어두운 동굴에서 당신의 시야를 확보 해 줄 것이다."
-,,
+
 "pc_wood_barrel","나무통","물품을 보관하기 위한 나무 통."
 "pc_wood_bedside_table","나무 보조탁자","거친나무로 만든 보조 탁자."
 "pc_wood_bedside_table_2","나무 보조탁자","거친나무로 만든 보조 탁자."
@@ -677,7 +677,7 @@
 "pc_chest_silver","은 상자","멋진 은상자!"
 "pc_chest_gold","황금 상자","오직 가장 위대한 보물들만이 이 단단한 금 상자 안에 있을 수 있다."
 "pc_chest_mimic","미믹상자","상자의 움직임을 본 것 같아요. 몬스터일수도…"
-,,
+
 "pc_drop_bar_zinc","아연 주괴","아연 주괴"
 "pc_drop_butterfly_gem","나비 보석","나비 보석"
 "pc_drop_creep_blood","크립 피 플라스크","크립 피 플라스크."
@@ -702,22 +702,22 @@
 "pc_drop_stamina_gem3","스태미나석(대)","스태미나 보석 Level 3."
 "pc_drop_sulfur","황","취급주의, 폭탄의 재료."
 "pc_drop_wood_mystic","신비한 목재","신비한 목재."
-,,
+
 "pc_food_amond","아몬드","아몬드."
 "pc_food_haricot_vert","녹색의 까치콩","녹색의 까치콩."
 "pc_food_slime_icecream","슬라임 아이스크림","슬라임 아이스크림"
 "pc_food_zombie_meat","좀비 고기","좀비 고기, 좀비가 된다."
-,,
+
 "pc_sword_phenix","피닉스 검","피닉스의 영혼을 담고 있다."
-,,
+
 "pc_drop_fire_orb","화염 구체","화염 구체."
 "pc_chest_fire","화염 상자","화염 상자."
-,,
+
 "pc_companion_orb_necro","네크로맨서 구체","장비할 수 있는 동반자 구체\n적을 쏴죽일수 있다."
 "pc_grenade_banana_bomb","바나나 폭탄","주의! 강력한 폭발력. 지형을 파괴하고 몬스터에게 데미지를 준다."
 "pc_grenade_base","대형 폭탄","대형 폭탄. 지형을 파괴하고 몬스터에게 데미지를 준다."
 "pc_grenade_base_small","소형 폭탄","소형 폭탄. 지형을 파괴하고 몬스터에게 데미지를 준다."
-,,
+
 "pc_slime_ball","슬라임 공","슬라임 공."
 "pc_wisp_ball","위습 공","위습 공."
 "pc_zombi_ball","좀비 공","좀비 공."
@@ -726,7 +726,7 @@
 "pc_lightweight_ball","경량화 공","경량화 공."
 "pc_gold_ball","황금 공","황금 공."
 "pc_cannonball","캐논 공","캐논 공."
-,,
+
 "pc_catch_gem","영혼석 lv1","몬스터의 영혼을 사로잡는 도구."
 "pc_catch_gem2","영혼석 lv2","몬스터의 영혼을 사로잡는 도구."
 "pc_catch_gem3","영혼석 lv3","몬스터의 영혼을 사로잡는 도구."
@@ -736,11 +736,11 @@
 "pc_catch_gem7","영혼석 lv7","몬스터의 영혼을 사로잡는 도구."
 "pc_catch_gem8","영혼석 lv8","몬스터의 영혼을 사로잡는 도구."
 "pc_catch_gem9","영혼석 lv9","몬스터의 영혼을 사로잡는 도구."
-,,
+
 "pc_armor_devourer_mask","마스크","디바우러 마스크."
 "pc_armor_ghost_mask","마스크","유령 마스크."
-,,
-,,
+
+
 "pc_drop_cactus_part","선인장 조각","선인장 한 조각."
 "pc_brick_cactus1","선인장 블록","선인장 한 블록."
 "pc_cactus_door","선인장 문","선인장 문."
@@ -756,46 +756,46 @@
 "pc_cactus_bed1","선인장 침대","따끔한 선인장 침대."
 "pc_cactus_sofa1","선인장 소파","지압을 해주는 선인장 소파."
 "pc_cactus_craft_table","선인장 작업대","선인장 가구를 만들 수 있는 작업대."
-,,
+
 "pc_block_hellrock1","지옥석","지옥을 감싸는 블록."
-,,
+
 "pc_brick_castle1","성벽 벽돌","성벽 벽돌."
-,,
+
 "pc_brick_castle2","성벽 벽돌","성벽 벽돌."
 "pc_brick_castle3","성벽 벽돌","성벽 벽돌."
 "pc_brick_castle4","성벽 벽돌","성벽 벽돌."
-,,
+
 "pc_brick_clay1","점토 벽돌","점토 벽돌."
 "pc_brick_clay2","점토 벽돌","점토 벽돌."
 "pc_brick_clay3","점토 벽돌","점토 벽돌."
 "pc_brick_clay4","점토 벽돌","점토 벽돌."
-,,
+
 "pc_brick_ice","얼음 벽돌","얼음 벽돌."
 "pc_block_ice","얼음 블록","얼음 블록."
 "pc_block_ice2","얼음 블록","얼음 블록."
 "pc_block_ice3","얼음 블록","얼음 블록."
-,,
+
 "pc_brick_prison1","독 벽돌","독으로 만든 벽돌."
 "pc_brick_prison2","독 벽돌","독으로 만든 벽돌."
-,,
+
 "pc_brick_sand1","모래 벽돌","모래 벽돌."
 "pc_brick_sand2","모래 벽돌","모래 벽돌."
 "pc_brick_sand3","모래 벽돌","모래 벽돌."
 "pc_brick_sand4","모래 벽돌","모래 벽돌."
-,,
+
 "pc_block_slime","슬라임 블록","슬라임 블록."
 "pc_block_slime2","슬라임 블록","슬라임 블록."
 "pc_block_slime3","슬라임 블록","슬라임 블록."
 "pc_block_slime4","슬라임 블록","슬라임 블록."
-,,
-,,
+
+
 "pc_block_board_1","나무 패널","나무 패널."
 "pc_block_board_2","나무 패널","나무 패널."
 "pc_block_board_3","나무 패널","나무 패널."
 "pc_block_wood_pillar","나무 기둥","나무로 만든 기둥."
 "pc_block_roof","나무 지붕 타일","나무로 만든 지붕."
 "pc_block_straw_roof","짚 지붕 타일","짚으로 만든 지붕."
-,,
+
 "pc_block_dirt","흙","흙 블록."
 "pc_block_sand","모래","모래 블록."
 "pc_block_snow","눈","눈 블록."
@@ -808,7 +808,7 @@
 "pc_block_flesh6","살덩이 블록","살덩이 블록."
 "pc_block_flesh7","살덩이 블록","살덩이 블록."
 "pc_block_flesh8","살덩이 블록","살덩이 블록."
-,,
+
 "pc_block_cross_grid_1","나무 격자 블록","나무 격자 블록."
 "pc_block_cross_grid_metal","금속 격자 블록","금속 격자 블록."
 "pc_block_wood_fence1","나무 울타리","나무 울타리 블록."
@@ -816,7 +816,7 @@
 "pc_block_rock1","바위 블록","바위 블록."
 "pc_block_glass","유리 블록","빛이 통과할 수 있는 유리 블록."
 "pc_block_window","유리창 블록","빛이 통과할 수 있는 유리창 블록."
-,,
+
 "pc_block_aztec_1","아즈텍 바위","아즈텍 바위."
 "pc_block_aztec_2","아즈텍 보","아즈텍 보."
 "pc_block_aztec_3","아즈텍 기둥 상단","아즈텍 기둥 상단."
@@ -825,7 +825,7 @@
 "pc_block_aztec_6","아즈텍 장식 블록","아즈텍 장식 블록."
 "pc_block_aztec_7","아즈텍 석재 블록","아즈텍 석재 블록."
 "pc_block_aztec_8","아즈텍 석재 블록","아즈텍 석재 블록."
-,,
+
 "pc_block_crimson_1","진홍색 타일","진홍색 타일."
 "pc_block_crimson_2","진홍색 지붕 타일","진홍색 지붕 타일."
 "pc_block_crimson_3","진홍색 보석 블록","진홍색 보석 블록."
@@ -836,7 +836,7 @@
 "pc_block_crimson_8","진홍색 벽 블록","진홍색 벽 블록."
 "pc_block_crimson_9","진홍색 기둥","진홍색 기둥."
 "pc_block_crimson_10","진홍색 스파이크","진홍색 스파이크."
-,,
+
 "pc_block_futuresteel_3","미래의 강철 태양 타일","미래의 강철 태양 타일."
 "pc_block_futuresteel_5","미래의 강철 플랫폼","미래의 강철 플랫폼."
 "pc_block_futuresteel_7","미래의 강철 코일","미래의 강철 코일."
@@ -857,7 +857,7 @@
 "pc_block_futuresteel_22","미래의 강철 지붕 갑옷","미래의 강철 지붕 갑옷."
 "pc_block_futuresteel_23","미래의 철망","미래의 철망."
 "pc_block_futuresteel_24","미래의 강철 데이터 슬래브","미래의 강철 데이터 슬래브."
-,,
+
 "pc_block_military_1","군용 블록","군용 블록."
 "pc_block_military_2","군용 구역 블록","군용 구역 블록."
 "pc_block_military_3","군용 벽돌","군용 벽돌."
@@ -870,7 +870,7 @@
 "pc_block_military_10","군용 시멘트 블록","군용 시멘트 블록."
 "pc_block_military_11","군용 시멘트 타일","군용 시멘트 타일."
 "pc_block_military_12","군용 강화 블록","군용 강화 블록."
-,,
+
 "pc_block_modern_1","모던 그린 타일","모던 그린 타일."
 "pc_block_modern_2","모던 빨간색 패널","모던 빨간색 패널."
 "pc_block_modern_3","모던 콘크리트 블록","모던 콘크리트 블록."
@@ -881,7 +881,7 @@
 "pc_block_modern_8","현대 시멘트 벽돌","현대 시멘트 벽돌."
 "pc_block_modern_9","현대 시멘트 블록","현대 시멘트 블록."
 "pc_block_modern_10","현대 목재 타일","현대 목재 타일."
-,,
+
 "pc_block_obsidian_1","흑요석 기둥","흑요석 기둥."
 "pc_block_obsidian_2","흑요석 황금 슬래브","흑요석 황금 슬래브."
 "pc_block_obsidian_3","흑요석 눈금 블록","흑요석 눈금 블록."
@@ -893,7 +893,7 @@
 "pc_block_obsidian_9","흑요석 화염 블록","흑요석 화염 블록."
 "pc_block_obsidian_10","흑요석 황금 보","흑요석 황금 보."
 "pc_block_obsidian_11","흑요석 기둥","흑요석 기둥."
-,,
+
 "pc_block_pirate_1","해적 벽","해적 벽."
 "pc_block_pirate_2","해적 바닥","해적 바닥."
 "pc_block_pirate_3","해적 마스트","해적 마스트."
@@ -901,7 +901,7 @@
 "pc_block_pirate_5","해적 나무 기와","해적 나무 기와."
 "pc_block_pirate_6","해적 보","해적 보."
 "pc_block_pirate_7","해적 마스트 베이스","해적 마스트 베이스."
-,,
+
 "pc_block_roman_1","로마 목판","로마 목판"
 "pc_block_roman_2","로마 진흙 타일","로마 진흙 타일"
 "pc_block_roman_3","로마 화려한 대리석","로마 화려한 대리석"
@@ -918,7 +918,7 @@
 "pc_block_roman_14","로마의 황금 기둥 베이스","로마의 황금 기둥 베이스"
 "pc_block_roman_15","로마 기둥 베이스","로마 기둥 베이스"
 "pc_block_stone_pillar","로마 돌로 만든 기둥","로마 돌로 만든 기둥"
-,,
+
 "pc_block_royal_1","왕립 상아 벽돌","왕립 상아 벽돌"
 "pc_block_royal_2","왕가 기와","왕가 기와"
 "pc_block_royal_3","왕실 태피스트리","왕실 태피스트리"
@@ -929,7 +929,7 @@
 "pc_block_royal_8","왕실 금 벽돌","왕실 금 벽돌"
 "pc_block_royal_9","왕립","왕립"
 "pc_block_royal_10","왕립 벽돌","왕립 벽돌"
-,,
+
 "pc_block_spacecowboy_1","스페이스 세룬 환기구","스페이스 세룬 환기구"
 "pc_block_spacecowboy_2","스페이스 세룬 파이프","스페이스 세룬 파이프"
 "pc_block_spacecowboy_3","스페이스 세단 그리드","스페이스 세단 그리드"
@@ -939,21 +939,21 @@
 "pc_block_spacecowboy_7","스페이스 살롱 슬래브","스페이스 살롱 슬래브"
 "pc_block_spacecowboy_8","스페이스 세단 타일","스페이스 세단 타일"
 "pc_block_spacecowboy_9","스페이스 세단 지붕 타일","스페이스 세단 지붕 타일"
-,,
+
 "pc_block_steampunk_1","스팀펑크 블록","스팀펑크 블록"
 "pc_block_steampunk_2","스팀펑크 루프 타일","스팀펑크 루프 타일"
 "pc_block_steampunk_3","스팀펑크 가드레일","스팀펑크 가드레일"
 "pc_block_steampunk_4","스팀펑크 패딩 타일","스팀펑크 패딩 타일"
 "pc_block_steampunk_5","스팀펑크 슬래브","스팀펑크 슬래브"
 "pc_block_steampunk_6","스팀펑크 타일","스팀펑크 타일"
-,,
+
 "pc_block_stoneage_1","석기암","석기암"
 "pc_block_stoneage_2","석기 잎","석기 잎"
 "pc_block_stoneage_3","석기 슬래브","석기 슬래브"
 "pc_block_stoneage_4","석기 석, 자갈","석기 석, 자갈"
 "pc_block_stoneage_5","석기 석, 돌멩이","석기 석, 돌멩이"
 "pc_block_stoneage_6","석기 블록","석기 블록"
-,,
+
 "pc_rune_agility1","민첩 룬","방어구:회피율 증가\n무기: 극대화 시 추가 피해"
 "pc_rune_agility2","민첩 룬","방어구:회피율 증가\n무기: 극대화 시 추가 피해"
 "pc_rune_agility3","민첩 룬","방어구:회피율 증가\n무기: 극대화 시 추가 피해"
@@ -1080,8 +1080,8 @@
 "pc_rune_thunder5","뇌전 룬","방어구: 번개속성 피해량 감소\n무기: 번개속성 추가 피해"
 "pc_rune_thunder6","뇌전 룬","방어구: 번개속성 피해량 감소\n무기: 번개속성 추가 피해"
 "pc_rune_thunder7","뇌전 룬","방어구: 번개속성 피해량 감소\n무기: 번개속성 추가 피해"
-,,
-,,
+
+
 "pc_small_haste_potion","작은 속도 포션","속도 lv1"
 "pc_small_healing_potion","작은 생명력 포션","회복 20 HP"
 "pc_small_life_potion","작은 생명력 추가 포션","생명력 추가 lv1"
@@ -1089,7 +1089,7 @@
 "pc_small_recovery_potion","작은 스태미나 재생 포션","스태미나 재생 lv1"
 "pc_small_regen_potion","작은 생명력 재생 포션","생명 재생 lv1"
 "pc_small_stamina_potion","작은 스태미나 포션","회복 15 SP"
-,,
+
 "pc_catalyst_flask","촉매 플라스크","강력한 촉매제"
 "pc_haste_potion","속도 포션","속도 lv2"
 "pc_healing_potion","생명력 포션","회복 50 HP"
@@ -1098,7 +1098,7 @@
 "pc_recovery_potion","스태미나 재생 포션","스태미나 재생 lv2"
 "pc_regen_potion","생명력 재생 포션","생명 재생 lv2"
 "pc_stamina_potion","스태미나 포션","회복 30 SP"
-,,
+
 "pc_large_catalyst_flask","대용량 촉매 플라스크","대용량 강력한 촉매제"
 "pc_large_haste_potion","대용량 속도 포션","속도 lv3"
 "pc_large_healing_potion","대용량 생명력 포션","회복 100 HP"
@@ -1107,7 +1107,7 @@
 "pc_large_recovery_potion","대용량 스태미나 재생 포션","스태미나 재생 lv3"
 "pc_large_regen_potion","대용량 생명력 재생 포션","생명 재생 lv3"
 "pc_large_stamina_potion","대용량 스태미나 포션","회복 50 SP"
-,,
+
 "pc_super_catalyst_flask","초대용량 촉매 플라스크","초대용량 강력한 촉매제"
 "pc_super_haste_potion","초대용량 속도 포션","속도 lv4"
 "pc_super_healing_potion","초대용량 생명력 포션","회복 200 HP"
@@ -1116,7 +1116,7 @@
 "pc_super_recovery_potion","초대용량 스태미나 재생 포션","스태미나 재생 lv4"
 "pc_super_regen_potion","초대용량 생명력 재생 포션","생명 재생 lv4"
 "pc_super_stamina_potion","초대용량 스태미나 포션","회복 100 SP"
-,,
+
 "pc_epic_catalyst_flask","위대한 촉매 플라스크","위대한 강력한 촉매제"
 "pc_epic_haste_potion","위대한 속도 포션","속도 lv5"
 "pc_epic_healing_potion","위대한 생명력 포션","회복 500 HP"
@@ -1125,7 +1125,7 @@
 "pc_epic_recovery_potion","위대한 스태미나 재생 포션","스태미나 재생 lv5"
 "pc_epic_regen_potion","위대한 생명력 재생 포션","생명 재생 lv5"
 "pc_epic_stamina_potion","위대한 스태미나 포션","회복 200 SP"
-,,
+
 "pc_legendary_catalyst_flask","전설의 촉매 플라스크","전설의 강력한 촉매제"
 "pc_legendary_haste_potion","전설의 속도 포션","속도 lv6"
 "pc_legendary_healing_potion","전설의 생명력 포션","회복 1000 HP"
@@ -1134,7 +1134,7 @@
 "pc_legendary_recovery_potion","전설의 스태미나 재생 포션","스태미나 재생 lv6"
 "pc_legendary_regen_potion","전설의 생명력 재생 포션","생명 재생 lv6"
 "pc_legendary_stamina_potion","전설의 스태미나 포션","회복 500 SP"
-,,
+
 "pc_divine_catalyst_flask","성스러운 촉매 플라스크","성스러운 강력한 촉매제"
 "pc_divine_haste_potion","성스러운 속도 포션","속도 lv7"
 "pc_divine_healing_potion","성스러운 생명력 포션","회복 2000 HP"
@@ -1143,31 +1143,31 @@
 "pc_divine_recovery_potion","성스러운 스태미나 재생 포션","스태미나 재생 lv7"
 "pc_divine_regen_potion","성스러운 생명력 재생 포션","생명 재생 lv7"
 "pc_divine_stamina_potion","성스러운  스태미나 포션","회복 1000 SP"
-,,
+
 "pc_block_foilage_red","빨간 나뭇잎","아름다운 빨간 나뭇잎들."
 "pc_companion_shiba","쉬바 코알라","애완동물, 정말 귀엽다."
-,,
+
 "pc_middleages_decoration2","마법서","마법을 생성한다."
 "pc_jewelry_table","보석작업대","보석을 가공하여 등급을 상승시킨다."
 "pc_artic_flower","북극 꽃","북극에서만 자라는 꽃."
 "pc_mush_oronge","귤색 버섯","귤색 버섯."
 "pc_flesh_platform","살덩이 발판","살덩이로 만든 발판"
-,,
+
 "pc_crusher_machine","분쇄기","장비류 아이템을 재활용한다.\n석탄을 사용한다."
 "pc_polishing_machine","연마기","보석을 상위의 보석으로 업그레이드 한다.\n영혼을 사용한다."
 "pc_transmutation_table","변환기","보석과 룬을 변환한다.\n영혼을 사용한다."
-,,
+
 "pc_drop_life_powder","생명력 파우더","회복 100 HP"
 "pc_drop_mana_powder","마나 파우더","회복 50 SP"
-,,
+
 "pc_companion_jack","잭","호박머리 잭, 사탕과 카라멜을 주기도 한다."
 "pc_table_regen","펫 회복센터 ","당신의 펫을 회복시키세요. 영혼이 필요합니다."
-,,
+
 "pc_armor_legs_green","드루이드 다리보호구","잊혀진 시대로부터 전해온 고대 드루이드 다리보호구."
 "pc_armor_body_green","드루이드 흉갑","잊혀진 시대로부터 전해온 고대 드루이드 흉갑."
 "pc_armor_helmet_green","드루이드 투구","잊혀진 시대로부터 전해온 고대 드루이드 투구."
-,,
-,,
+
+
 "pc_drop_invincibility_necklace","무적 목걸이","무적 목걸이"
 "pc_drop_perilous_necklace_copper","광폭의 구리 목걸이","광폭화 목걸이"
 "pc_drop_perilous_necklace_silver","광폭의 순은 목걸이","광폭화 목걸이"
@@ -1175,34 +1175,34 @@
 "pc_drop_safe_necklace_copper","생존의 구리 목걸이","생존의 목걸이"
 "pc_drop_safe_necklace_silver","생존의 순은 목걸이","생존의 목걸이"
 "pc_drop_safe_necklace_gold","생존의 황금 목걸이","생존의 목걸이"
-,,
+
 "pc_drop_ring_endurance_iron","인내의 철 반지","인내의 반지, 방어력"
 "pc_drop_ring_endurance_silver","인내의 순은 반지","인내의 반지, 방어력"
 "pc_drop_ring_endurance_gold","인내의 황금 반지","인내의 반지, 방어력"
-,,
+
 "pc_drop_ring_chest_iron","보물의 철 반지","상자 반지"
 "pc_drop_ring_chest_silver","보물의 순은 반지","상자 반지"
 "pc_drop_ring_chest_gold","보물의 황금 반지","상자 반지"
-,,
+
 "pc_drop_ring_ore_iron","광물의 철 반지","광물 반지"
 "pc_drop_ring_ore_silver","광물의 순은 반지","광물 반지"
 "pc_drop_ring_ore_gold","광물의 황금 반지","광물 반지"
-,,
-,,
+
+
 "pc_triggerable_pet_whistle","테이밍 플루트","애완동물이 더욱 잘 당신을 따릅니다."
-,,
+
 "pc_drop_artefact_fire_orb","화염의 구체","이 구체에서 이상한 에너지가 나온다."
 "pc_drop_artefact_plant_orb","식물의 구체","이 구체에서 이상한 에너지가 나온다."
 "pc_drop_artefact_shadow_orb","그림자 구체","이 구체에서 이상한 에너지가 나온다."
 "pc_drop_artefact_stone_orb","대지의 구체","이 구체에서 이상한 에너지가 나온다."
-" ",,
+
 "pc_drop_alien_part_blood","에일리언 피","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
 "pc_drop_alien_part_dart","소울스커의 화살","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
 "pc_drop_alien_part_fang","브루트의 송곳니","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
 "pc_drop_alien_part_tail","스카베거의 꼬리","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
 "pc_drop_alien_part_leg","트리포드 다리","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
 "pc_drop_alien_part_brain","마더브레인의 두뇌","무기와 탄약으로 교환할 수 있다. 얼마나 이상한 교환인가."
-" ",,
+
 "pc_drop_ammo_pistol","권총 탄약","권총 탄약"
 "pc_drop_ammo_shotgun","산탄총 셀","산탄총 탄약"
 "pc_drop_ammo_rifle","라이플총 탄약","라이플총 탄약 상자"
@@ -1211,35 +1211,35 @@
 "pc_drop_ammo_energy_blue","에너지 블루 배터리","상당한 화력을 가진 에너지 배터리."
 "pc_drop_ammo_energy_green","에너지 그린 배터리","낮은 화력을 가진 에너지 배터리."
 "pc_drop_ammo_energy_red","에너지 레드 배터리","치명적인 화력을 가진 에너지 배터리!"
-" ",,
+
 "pc_submachine_gun1","서브머신 건","근거리에서 포구속도가 높은 총."
 "pc_riffle1","라이플총","공격용 소총은 효과적이고 정확하며 치명적입니다."
 "pc_gun_revolver","연발권총","여러분은 이제 카우보이 모자를 찾기만 하면 됩니다!"
 "pc_gun_semi_auto","반자동권총","반자동 권총"
 "pc_shotgun1","산탄총","산탄총. 단거리에 최적화 되어있다!"
 "pc_rocket_launcher","로켓 발사기","일부는 이 로켓 발사기로 점프를 시도했지만, 결정을 몹시 후회했다."
-" ",,
+
 "pc_assault_riffle_tech","삭제기","파란색 에너지 배터리를 탄약으로 사용한 공격용 소총, 궁극의 무기!"
 "pc_gun_green_laser","P-400","녹색 에너지 배터리를 탄약으로 사용한 레이저 건"
 "pc_gun_blue_laser","P-401","파란색 에너지 배터리를 탄약으로 사용한 레이저 건"
 "pc_gun_pump_fire","토스트 제조기","모두 태워버려!"
 "pc_gun_steampunk_electric","집행자","적에게 전력을 방출하십시오!"
-,,
+
 "pc_triggerable_alien_teleporter","외계 텔레포터","외계 전초기지로 순간이동."
-,,
+
 "pc_triggerable_monster_seal1"," 변환 씰 lv1"," 괴물의 영혼을 봉인함으로써 스스로를 변화시킬 수 있습니다."
 "pc_triggerable_monster_seal2"," 변환 씰 lv2"," 괴물의 영혼을 봉인함으로써 스스로를 변화시킬 수 있습니다."
 "pc_triggerable_monster_seal3"," 변환 씰 lv3"," 괴물의 영혼을 봉인함으로써 스스로를 변화시킬 수 있습니다."
 "pc_triggerable_monster_seal4"," 변환 씰 lv4"," 괴물의 영혼을 봉인함으로써 스스로를 변화시킬 수 있습니다."
-,,
-"pc_armor_mask_invisible"," 투명 투구"," 바닐라 투구 외관 슬롯에 사용해야 합니다."
-,,
-"pc_drop_hammer_bronze"," 청동 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
-"pc_drop_hammer_iron"," 철 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
-"pc_drop_hammer_steel"," 강철 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
-"pc_drop_hammer_silver"," 순은 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
-"pc_drop_hammer_gold"," 황금 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
-,,
+
+"pc_armor_mask_invisible","투명 투구","착용한 모자를 숨깁니다. 외형 슬롯에 장비하세요."
+
+"pc_drop_hammer_bronze","청동 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
+"pc_drop_hammer_iron","철 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
+"pc_drop_hammer_steel","강철 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
+"pc_drop_hammer_silver","순은 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
+"pc_drop_hammer_gold","황금 해머"," 당신의 모루를 업그레이드 하는데 사용하세요."
+
 "pc_drop_shadow_armor"," 그림자 아머"," 전설적인 그림자 갑옷"
 "pc_drop_shadow_armor_soul"," 그림자 심장"," 그림자 갑옷의 영혼을 간직하고 있습니다."
 "pc_drop_shadow_armor_helmet"," 그림자 아머 투구"," 섀도우 갑옷 조립에 사용"
@@ -1247,37 +1247,37 @@
 "pc_drop_shadow_armor_greaves"," 그림자 아머 하부"," 섀도우 갑옷 조립에 사용"
 "pc_drop_shadow_armor_gloves"," 그림자 아머 장갑"," 섀도우 갑옷 조립에 사용"
 "pc_drop_shadow_armor_sword"," 그림자 아머 검"," 섀도우 갑옷 조립에 사용"
-,,
+
 "pc_drop_small_crystal_castle"," 석재 크리스탈"," 숨겨진 지하감옥으로 안내"
 "pc_drop_small_crystal_ice"," 얼음 크리스탈"," 숨겨진 지하감옥으로 안내"
 "pc_drop_small_crystal_forest"," 나뭇잎 크리스탈"," 숨겨진 지하감옥으로 안내"
 "pc_drop_small_crystal_shadow"," 그림자 크리스탈"," 숨겨진 지하감옥으로 안내"
 "pc_drop_small_crystal_hell"," 화염 크리스탈"," 숨겨진 지하감옥으로 안내"
-,,
+
 "pc_block_sand_column_center"," 모래 기둥 중심"," 모래 기둥의 한 부분"
 "pc_block_sand_column_center2"," 모래 기둥 중심"," 모래 기둥의 한 부분"
 "pc_block_sand_column_top"," 모래 기둥 상단"," 모래 기둥의 한 부분"
 "pc_block_sand_column_bottom"," 모래 기둥 하단"," 모래 기둥의 한 부분"
-,,
+
 "pc_block_sand_columnbig_centerl"," 큰 모래 기둥 좌측 중앙"," 큰 모래 기둥의 한 부분"
 "pc_block_sand_columnbig_centerr"," 큰 모래 기둥 우측 중앙"," 큰 모래 기둥의 한 부분"
 "pc_block_sand_columnbig_topl"," 큰 모래 기둥 왼쪽 상단"," 큰 모래 기둥의 한 부분"
 "pc_block_sand_columnbig_topr"," 큰 모래 기둥 우측 상단"," 큰 모래 기둥의 한 부분"
 "pc_block_sand_columnbig_bottoml"," 큰 모래 기둥 왼쪽 하단"," 큰 모래 기둥의 한 부분"
 "pc_block_sand_columnbig_bottomr"," 큰 모래 기둥 우측 하단"," 큰 모래 기둥의 한 부분"
-,,
+
 "pc_block_castle_column_center1"," 성벽 기둥 중심"," 성벽 기둥의 한 부분"
 "pc_block_castle_column_center2"," 성벽 기둥 중심"," 성벽 기둥의 한 부분"
 "pc_block_castle_column_top"," 성벽 기둥 상단"," 성벽 기둥의 한 부분"
 "pc_block_castle_column_bottom"," 성벽 기둥 하단"," 성벽 기둥의 한 부분"
-,,
+
 "pc_block_castle_columnbig_centerl"," 성벽 큰 기둥 왼쪽 중간"," 성벽 큰 기둥의 한 부분"
 "pc_block_castle_columnbig_centerr"," 성벽 큰 기둥 오른쪽 중간"," 성벽 큰 기둥의 한 부분"
 "pc_block_castle_columnbig_topl"," 성벽 기둥 왼쪽 상단"," 성벽 큰 기둥의 한 부분"
 "pc_block_castle_columnbig_topr"," 성벽 기둥 오른쪽 상단"," 성벽 큰 기둥의 한 부분"
 "pc_block_castle_columnbig_bottoml"," 성벽 기둥 왼쪽 아래"," 성벽 큰 기둥의 한 부분"
 "pc_block_castle_columnbig_bottomr"," 성벽 기둥 오른쪽 아래"," 성벽 큰 기둥의 한 부분"
-,,
+
 "pc_staff_magic_fire1_simple"," 초심자 파이어 애로우","  "
 "pc_staff_magic_fire1b"," 초심자 파이어 폴 스태프","  "
 "pc_staff_magic_fire1c"," 초심자 파이어 레인 스태프","  "
@@ -1288,7 +1288,7 @@
 "pc_staff_magic_fire2c"," 파이어 레인 스태프","  "
 "pc_staff_magic_fire2d"," 파이어 볼 스태프","  "
 "pc_staff_magic_fire2e"," 파이어 스네이크 스태프","  "
-,,
+
 "pc_staff_magic_ice1_simple"," 초심자 서리 볼트 스태프","  "
 "pc_staff_magic_ice1b"," 초심자 서리 폭풍우 스태프","  "
 "pc_staff_magic_ice1c"," 초심자 서리 함정 스태프","  "
@@ -1299,28 +1299,28 @@
 "pc_staff_magic_ice2d"," 서리 낙하 스태프","  "
 "pc_staff_magic_ice2e"," 서리 폭풍우 스태프","  "
 "pc_staff_magic_ice2f"," 서리 함정 스태프","  "
-,,
+
 "pc_staff_magic_elec1_simple"," 초심자 전류 방출 스태프","  "
 "pc_staff_magic_elec1b"," 초심자 흐르는 전류 스태프","  "
 "pc_staff_magic_elec1c"," 번개 함정 스태프","  "
 "pc_staff_magic_elec1d"," 번개 화살 스태프","  "
 "pc_staff_magic_elec1e"," 번개 소환 스태프","  "
-,,
+
 "pc_staff_magic_elec2_simple"," 전류 공 스태프","  "
 "pc_staff_magic_elec2b"," 번개 스태프","  "
 "pc_staff_magic_elec2c"," 튀는 번개공 소환 스태프","  "
 "pc_staff_magic_elec2d"," 튀는 번개공 낙하 스태프","  "
-,,
+
 "pc_staff_magic_stone1_simple"," 바위 분출 스태프","  "
 "pc_staff_magic_stone1b"," 소규모 지진 스태프","  "
 "pc_staff_magic_stone2_simple"," 단방향 지진 스태프","  "
 "pc_staff_magic_stone2b"," 양방향 지진 스태프","  "
 "pc_staff_magic_stone2c"," 격노하는 지진 스태프","  "
-,,
+
 "pc_staff_magic_light1_simple"," 초심자 성스러운 광선 스태프","  "
 "pc_staff_magic_light2_simple"," 성스러운 광선 스태프","  "
 "pc_staff_magic_light2b"," 성스러운 초월자의 검 스태프","  "
-,,
+
 "pc_staff_magic_wooden"," 마력탄 스태프","  "
 
 "pc_drop_blueprint_arcana", "아르카나 설계도", "아르카나 설계도"
