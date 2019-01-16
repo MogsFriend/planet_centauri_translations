@@ -1322,3 +1322,10 @@
 "pc_staff_magic_light2b"," 성스러운 초월자의 검 스태프","  "
 ,,
 "pc_staff_magic_wooden"," 마력탄 스태프","  "
+
+"pc_drop_blueprint_arcana", "아르카나 설계도", "아르카나 설계도"
+"pc_drop_blueprint_sun", "태양 설계도", "태양 설계도"
+"pc_drop_blueprint_meteor", "운석 설계도", "운석 설계도"
+
+"pc_effects_analyzer", "몬스터 분석기", "몬스터의 숨겨진 힘을 발견해 줍니다."
+
