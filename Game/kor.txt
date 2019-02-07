@@ -3,8 +3,6 @@
 # Please don't remove comments and sections
 # which begin with the character '#'
 # Translate only elements between " and "
-
-# Translation Edit and Mistranslate fix by 솔쟝조아#1518
  
 ####################
 ### Title Screen ###
